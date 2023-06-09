@@ -40,10 +40,12 @@ const Timer = () => {
       }, []);
 
   return (
-    <div className="container centerIt">
+    <div style={{
+        marginTop: "4%",
+    }} className="container centerIt">
       <div>
         <label className="project-title">FundSpirit</label>
-        <label className="project-name">A block-chain based crowdfunding application in making</label>
+        <label className="project-name">Unlocking the future of crowdfunding with blockchain technology - Coming Soon!</label>
       </div>
       <div className="counter">
         <div className="days">
