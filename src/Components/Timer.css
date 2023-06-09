@@ -13,11 +13,10 @@
   }
   
   .container {
-    background-color: var(--container-color);
     padding: var(--container-padding);
     border-radius: 8px;
     color: #fff;
-    width: 450px;
+    width: 550px;
     margin: auto;
     box-shadow: 0 5px 50px rgba(0, 0, 0, 0.2);
   }
