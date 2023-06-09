@@ -1,7 +1,7 @@
 {
   "background": {
     "color": {
-      "value": "#000"
+      "value": "#fff"
     }
   },
   "fpsLimit": 120,
@@ -22,17 +22,17 @@
         "quantity": 4
       },
       "repulse": {
-        "distance": 200,
+        "distance": 100,
         "duration": 0.4
       }
     }
   },
   "particles": {
     "color": {
-      "value": "#ffffff"
+      "value": "#1d1ce5"
     },
     "links": {
-      "color": "#ffffff",
+      "color": "#1d1ce5",
       "distance": 150,
       "enable": true,
       "opacity": 0.5,
@@ -48,7 +48,7 @@
         "default": "bounce"
       },
       "random": false,
-      "speed": 3,
+      "speed": 2,
       "straight": false
     },
     "number": {
@@ -56,7 +56,7 @@
         "enable": true,
         "area": 800
       },
-      "value": 120
+      "value": 150
     },
     "opacity": {
       "value": 0.5
