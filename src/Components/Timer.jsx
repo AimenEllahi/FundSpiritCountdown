@@ -42,8 +42,8 @@ const Timer = () => {
   return (
     <div className="container centerIt">
       <div>
-        <label className="project-title">Project Name</label>
-        <label className="project-name">Helper Library Development</label>
+        <label className="project-title">FundSpirit</label>
+        <label className="project-name">A block-chain based crowdfunding application in making</label>
       </div>
       <div className="counter">
         <div className="days">
