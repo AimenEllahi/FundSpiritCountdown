@@ -41,7 +41,7 @@ const Timer = () => {
   return (
     <div
       style={{
-        marginTop: "4%",
+        marginTop: window.innerWidth > 600 ? "4%" : "20%" ,
       }}
       className='container centerIt'
     >

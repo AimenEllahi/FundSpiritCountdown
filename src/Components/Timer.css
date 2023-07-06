@@ -111,3 +111,19 @@ body {
     opacity: 1;
   }
 }
+
+/* Media queries for mobile responsiveness */
+@media only screen and (max-width: 600px) {
+    .container {
+      width: 80vw;
+      
+    }
+  
+    .container .counter .value {
+      font-size: 26pt;
+    }
+  
+    .container .counter span {
+      font-size: 6pt;
+    }
+  }
