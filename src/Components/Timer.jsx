@@ -31,7 +31,7 @@ const Timer = () => {
         }
       }, 1000);
     };
-    initializeClock(`2023/7/10`);
+    initializeClock(`2023/12/10`);
 
     return () => {
       clearInterval(timeinterval); // Clear the interval on component unmount
